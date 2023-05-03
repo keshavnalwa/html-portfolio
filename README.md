@@ -1,1 +1,1 @@
-# html-portfolioo
+# practice_projects
